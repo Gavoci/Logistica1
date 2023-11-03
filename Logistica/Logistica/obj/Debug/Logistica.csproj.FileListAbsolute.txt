@@ -1,0 +1,11 @@
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\bin\Debug\Logistica.exe.config
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\bin\Debug\Logistica.exe
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\bin\Debug\Logistica.pdb
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.csproj.AssemblyReference.cache
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.csproj.SuggestedBindingRedirects.cache
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.Form1.resources
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.Properties.Resources.resources
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.csproj.GenerateResource.cache
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.csproj.CoreCompileInputs.cache
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.exe
+C:\Users\gavoci.19403\Desktop\Logistica\Logistica\obj\Debug\Logistica.pdb
